@@ -1,1 +1,2 @@
-# JavaScript_Project
+# Littel-Dino
+JS project (Web site for childrens)
